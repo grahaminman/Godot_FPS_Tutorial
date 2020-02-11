@@ -2,7 +2,7 @@
 .import/
 export.cfg
 export_presets.cfg
-
+0/
 # Ignore the game audio folder (for legal reasons)
 Game_Audio/
 
